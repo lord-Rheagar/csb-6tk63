@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css","webpack://src/Header.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CCHA,QACE,cAAe,CACf,gBACF","file":"main.223abe73.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n",".header{\r\n  max-width: 100%;\r\n  max-height: 200px;\r\n}"]}
